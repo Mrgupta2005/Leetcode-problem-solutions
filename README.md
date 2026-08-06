@@ -42,4 +42,5 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
