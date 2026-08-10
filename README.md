@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -15,6 +16,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
