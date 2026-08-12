@@ -68,6 +68,7 @@
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0709-to-lower-case/) | Easy |
@@ -142,6 +143,7 @@
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Bit Manipulation
@@ -159,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
