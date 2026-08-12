@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -81,6 +82,7 @@
 | [0001-two-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0001-two-sum/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
@@ -114,6 +116,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
