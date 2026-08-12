@@ -71,6 +71,7 @@
 | [0541-reverse-string-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@
 | [0326-power-of-three](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
