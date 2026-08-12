@@ -39,6 +39,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -140,4 +141,12 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
