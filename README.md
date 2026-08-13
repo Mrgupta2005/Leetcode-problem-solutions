@@ -75,6 +75,7 @@
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0880-decoded-string-at-index/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
