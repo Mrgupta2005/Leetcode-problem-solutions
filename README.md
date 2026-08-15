@@ -18,6 +18,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
