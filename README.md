@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0001-two-sum/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -96,6 +98,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
@@ -131,6 +134,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -188,5 +192,10 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
