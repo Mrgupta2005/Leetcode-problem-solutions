@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
@@ -208,12 +209,14 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -225,9 +228,14 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
