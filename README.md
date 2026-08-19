@@ -203,4 +203,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
