@@ -34,6 +34,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -103,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +252,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
