@@ -53,6 +53,7 @@
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -178,6 +179,7 @@
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -223,11 +225,13 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
