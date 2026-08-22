@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
@@ -196,6 +197,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0880-decoded-string-at-index/) | Medium |
 ## Counting
@@ -266,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
