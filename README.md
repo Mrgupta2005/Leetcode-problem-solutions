@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -188,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Number Theory
@@ -199,6 +201,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0394-decode-string/) | Medium |
+| [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0880-decoded-string-at-index/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
