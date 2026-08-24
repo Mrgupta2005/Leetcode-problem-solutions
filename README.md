@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -97,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -260,6 +262,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
