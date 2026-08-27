@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -293,6 +294,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
