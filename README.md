@@ -60,6 +60,7 @@
 | [0390-elimination-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -132,6 +133,7 @@
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@
 | [0070-climbing-stairs](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
