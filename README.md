@@ -27,6 +27,7 @@
 | [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
