@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0322-coin-change/) | Medium |
@@ -147,6 +148,7 @@
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Trie
@@ -356,4 +358,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
