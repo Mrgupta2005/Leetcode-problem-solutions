@@ -33,6 +33,7 @@
 | [0735-asteroid-collision](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -46,6 +47,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
