@@ -23,6 +23,7 @@
 | [0289-game-of-life](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -48,6 +49,7 @@
 | [0162-find-peak-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -99,6 +101,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -135,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -150,6 +154,7 @@
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
