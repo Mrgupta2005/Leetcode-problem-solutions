@@ -23,6 +23,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0498-diagonal-traverse](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -216,6 +217,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -332,4 +334,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
