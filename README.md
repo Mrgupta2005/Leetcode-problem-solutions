@@ -34,6 +34,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -63,6 +64,7 @@
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
