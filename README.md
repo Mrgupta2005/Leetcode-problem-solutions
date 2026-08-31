@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0078-subsets/) | Medium |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
@@ -134,6 +135,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0518-coin-change-ii/) | Medium |
