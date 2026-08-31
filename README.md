@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -48,6 +49,7 @@
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
