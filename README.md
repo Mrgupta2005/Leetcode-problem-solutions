@@ -27,6 +27,7 @@
 | [0518-coin-change-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -60,6 +61,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Math
@@ -129,6 +131,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
