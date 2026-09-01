@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -287,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -298,6 +300,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0322-coin-change/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
@@ -365,6 +368,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -379,6 +383,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
