@@ -45,6 +45,7 @@
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
