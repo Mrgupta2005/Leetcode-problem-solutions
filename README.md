@@ -97,6 +97,7 @@
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
