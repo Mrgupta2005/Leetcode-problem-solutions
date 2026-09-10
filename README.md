@@ -292,6 +292,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +305,7 @@
 | [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
