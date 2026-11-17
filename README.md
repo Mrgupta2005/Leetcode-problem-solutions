@@ -43,6 +43,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -95,6 +96,7 @@
 | [0672-bulb-switcher-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3870-count-commas-in-range/) | Easy |
