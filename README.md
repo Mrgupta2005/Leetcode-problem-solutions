@@ -32,6 +32,7 @@
 | [0525-contiguous-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -57,6 +58,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
