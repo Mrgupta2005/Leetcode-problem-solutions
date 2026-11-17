@@ -120,6 +120,7 @@
 | [0541-reverse-string-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | [0880-decoded-string-at-index](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
