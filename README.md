@@ -144,6 +144,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
