@@ -47,6 +47,7 @@
 | [1140-stone-game-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -179,6 +180,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +378,7 @@
 | [0455-assign-cookies](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
