@@ -49,6 +49,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -107,6 +108,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
