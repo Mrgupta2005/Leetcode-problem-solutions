@@ -232,6 +232,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -271,6 +272,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0342-power-of-four/) | Easy |
