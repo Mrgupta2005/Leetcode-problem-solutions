@@ -54,6 +54,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@
 | [0567-permutation-in-string](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +434,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrgupta2005/Leetcode-problem-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
